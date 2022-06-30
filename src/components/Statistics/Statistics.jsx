@@ -29,7 +29,3 @@ Statistics.propTypes = {
   title: PropTypes.string.isRequired,
   stats:PropTypes.arrayOf(PropTypes.shape).isRequired
 }
-// Statistics.propTypes = {
-//     title: PropTypes.string,
-//     stats:PropTypes.arrayOf(PropTypes.object).isRequired,   
-// }
